@@ -1,0 +1,9 @@
+displayName = Custulio
+author = KTT24,
+version = BETA-0.1
+homepage = 
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
