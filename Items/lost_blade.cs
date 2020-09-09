@@ -7,8 +7,8 @@ namespace Custulio.Items
 	{
 		public override void SetStaticDefaults() 
 		{
-			DisplayName.SetDefault("Lost Blade"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("The Lost Blade from the god hhim self.");
+			DisplayName.SetDefault("The Lost Blade"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			Tooltip.SetDefault("The Lost Blade from the god him self.");
 		}
 
 		public override void SetDefaults() 

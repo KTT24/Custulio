@@ -1,6 +1,6 @@
 displayName = Custulio
 author = KTT24,
-version = BETA-0.1
+version = 0.1
 homepage = 
 hideCode = true
 hideResources = true
